@@ -28,3 +28,4 @@ After fixing these issues and setting everything up properly, I started the serv
 Overall, this project helped me grasp the basics of real-time communication, socket events, and how the client and server interact dynamically in a Node.js environment. It was a valuable hands-on experience in both frontend and backend development, as well as debugging and managing dependencies.
 
 *OUTPUT:* 
+<img width="1449" height="1035" alt="Image" src="https://github.com/user-attachments/assets/243d0528-d23d-442b-a799-ddf60332cc6b" />
